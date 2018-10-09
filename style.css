@@ -2,14 +2,31 @@
       width: 168px;
       height: 104px;
     }
+    #introIMG  {
+      float  : right;
+    }
+    body {
+      margin : 0;
+    }
     .profile_banner {
       display: grid;
       grid-template-columns: 200px auto;
       grid-template-rows: 200px;
     }
+    header {
+      display: grid;
+      grid-template-comums: 100px auto;
+      grid-template-rows: 200px;
+    }
+    #icon {
+      float:left;
+      height: 100px;
+      width: 100px;
+    }
     .profile {
       border: 1px solid gray;
       padding: 10px;
+      padding-bottom : 1px;
       margin: 0px;
     }
     .profile_line {
@@ -33,7 +50,7 @@
     nav {
       border-right: 1px solid gray;
       width: 199px;
-      height: 1000px;
+      height: 10000px;
       float:left;
     }
     nav ol {
