@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>CyphersGibunyClan</title>
-    <link rel="stylesheet" type="text/css" href="http://localhost:80/style.css">
+    <link rel="stylesheet" type="text/css" href="http://list.txt/style.css">
   </head>
   <body>
 
@@ -11,7 +11,7 @@
     <!---프로필 및 로그인--->
     <div class="profile">
       <div class="profile_line">
-        <img src="http://localhost:80/profileEX.jpg" id="profileIMG">
+        <img src="http://list.txt/profileEX.jpg" id="profileIMG">
       </div>
       <div class="profile_text">
         닉네임 :<br>
@@ -19,8 +19,8 @@
       </div>
     </div>
     <header>
-    <img src="http://localhost:80/gibuny_icon.png" alt="gibuny_icon" id="icon">
-    <h1 class="header"><a href="http://localhost:80/index.php">Cyphers Gibuny Clan</a></h1>
+    <img src="http://list.txt/gibuny_icon.png" alt="gibuny_icon" id="icon">
+    <h1 class="header"><a href="http://list.txt/index.php">Cyphers Gibuny Clan</a></h1>
     </header>
   </div>
   <!---헤더--->
